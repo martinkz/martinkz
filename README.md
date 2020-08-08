@@ -1,4 +1,4 @@
-### Hi there 👋
+### London based web developer (full stack)
 
 <!--
 **martinkz/martinkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
